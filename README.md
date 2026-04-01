@@ -1,28 +1,163 @@
+<!-- 🌌 NAHOM – GitHub Profile README -->
+
+<div align="center">
+
 ![White Minimalist Corporate Personal Profile LinkedIn Banner](https://user-images.githubusercontent.com/90236635/232446433-d5540fa2-fe28-4bb8-b929-cdb51fe61336.gif)
+  
+  <div style="text-align: center;">
+    <h1 align="center">
+      <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=40&center=true&vCenter=true&width=700&height=100&duration=4000&lines=Hi+There!+👋;+💥+I'm+Nahom+Bekele!+💥;+✨+Fullstack+Developer!+🎉;" alt="Typing SVG" />
+    </h1>
+  </div>
 
-<h1 align="center">Hi 👋, I'm Nahom Bekele</h1>
-<h3 align="center">A passionate full-stack developer</h3>
-<img alt="Coder GIF" align="right" width=400 src="https://miro.medium.com/max/1360/0*7Q3yvSIv_t0ioJ-Z.gif" />
+  <p align="center">
+    <a href="https://github.com/nahombekele24">
+      <img src="https://img.shields.io/github/followers/nahombekele24?label=Followers&style=social" />
+    </a>
+    <a href="https://github.com/nahombekele24?tab=repositories">
+      <img src="https://img.shields.io/badge/🌟%20Star%20My%20Repos-blueviolet?style=flat-square" />
+    </a>
+    <a href="mailto:nahombekele24@gmail.com">
+      <img src="https://img.shields.io/badge/💌%20Email%20Me-D14836?style=flat-square" />
+    </a>
+  </p>
 
-- 🔭 I’m currently working on **front-end**
+  <img src="https://komarev.com/ghpvc/?username=nahombekele24&label=Visitors&color=0ef7bb&style=flat-square" alt="Profile Views"/>
 
-- 🌱 I’m currently learning **Web development**
+</div>
 
-- 👨‍💻 All of my projects are available at [nahombekele24](nahombekele24)
+---
+<!-- About Section -->
+<h2 align="center">⚡ About Me</h2>
 
-- 📫 How to reach me **nahombekele24@gmail.com**
+<div align="center">
+  <blockquote>
+   “Don’t just write code — design the experience.”
+  </blockquote>
+</div>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/nahombekele116" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/nahombekele116" height="30" width="40" /></a>
-<a href="https://instagram.com/_nahombekele" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_nahombekele" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/nb116" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="nb116" height="30" width="40" /></a>
+<br/>
+
+<table>
+  <tr>
+    <td width="60%" valign="center">
+      <h3>👨‍💻 The Developer</h3>
+      <ul>
+        <li>👋 I’m <strong>Nahom Bekele</strong>, a developer from <strong>Ethiopia 🇪🇹</strong>.</li>
+        <li>🎓 <strong>Student</strong> @ Dire Dawa University (IT).</li>
+        <li>💼 <strong>Fullstack Developer</strong>.</li>
+        <li>🔭 Currently working on: <strong>Frontend</strong>.</li>
+        <li>🌱 Learning: <strong>Backend Development & Mobile Application</strong>.</li>
+      </ul>
+    </td>
+    <td width="40%" valign="center" align="center">
+      <!-- You can put a profile pic or Memoji here -->
+     <img align="left" src="https://miro.medium.com/max/1360/0*7Q3yvSIv_t0ioJ-Z.gif"" width="100%"/>
+    </td>
+  </tr>
+</table>
+---
+
+
+## 🛠️ Tech Arsenal
+
+<div align="center">
+
+| 💻 **Languages** | 🎨 **Frontend** | ⚙️ **Backend** |
+|:----------------:|:----------------:|:----------------:|
+| ![Langs](https://skillicons.dev/icons?i=js,java,cpp,c#) | ![FE](https://skillicons.dev/icons?i=html,css,react,nextjs,tailwind,bootstrap,vite) | ![BE](https://skillicons.dev/icons?i=nodejs,express,firebase,postman) |
+
+| 🧩 **Databases** | 🧰 **Dev Tools** | 🚀 **Deployment** |
+|:----------------:|:----------------:|:----------------:|
+| ![DB](https://skillicons.dev/icons?i=mysql,mongodb,postgres) | ![Tools](https://skillicons.dev/icons?i=git,figma,vscode,visualstudio) | ![Deploy](https://skillicons.dev/icons?i=vercel,netlify) |
+
+</div>
+
+---
+
+---
+
+## 🎓 Education & Certifications
+
+🎓 **B.Sc. in Information Technology** — Dire Dawa University  
+🎯 **Udemy** — UI/UX Design   
+🖥️ **Udemy** — Frontend Development Certificate  
+💡 **Safaricom Talent Cloud** — Web development 
+🖥️ **Mesob Art School** - Graphic Design
+
+---
+
+## ⚡ Live Stats Dashboard
+
+<div align="center">
+
+  <!-- SYSTEM UI HEADER -->
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=28&pause=1000&color=00F2FF&center=true&vCenter=true&width=600&lines=───+SYSTEM+NOTIFICATION+───;+DAILY+QUEST+COMPLETE:+340+DAY+STREAK;+PLAYER:+nahombekele24;+CURRENT+RANK:B CLASS;+ARISE..." alt="Solo Leveling System" />
+
+  <br/>
+
+  <!-- MAIN STATS SECTION -->
+  <p>
+    <img height="185em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=nahombekele24&show_icons=true&theme=radical&include_all_commits=true&count_private=true" />
+    <img height="185em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=nahombekele24&layout=compact&langs_count=7&theme=radical" />
+  </p>
+
+  <!-- THE SYSTEM QUEST CARD (LARGER GIF + STREAK) -->
+  <table border="0" cellpadding="0" cellspacing="0">
+    <tr>
+      <!-- LEFT BOX: Solo Leveling GIF (Increased Size) -->
+      <td align="center" valign="center">
+        <img 
+          src=https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdmJ1c3l2YWJtNzIyc2twMGQ1cGlqemIzMWowMjRnZWpjZDViZGd1YyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/78XCFBGOlS6keY1Bil/giphy.gif 
+          width="320" 
+          style="border-radius: 12px; border: 3px solid #00F2FF; box-shadow: 0 0 20px #00F2FF;" 
+          alt="Shadow Monarch"
+        />
+      </td>
+      <!-- RIGHT BOX: Live Streak Stats -->
+      <td align="center" valign="center" style="padding-left: 10px;">
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=nahombekele24&theme=radical&hide_border=false" />
+      </td>
+    </tr>
+  </table>
+
+  <br/>
+
+  <!-- HOLOGRAPHIC SYSTEM DIVIDER -->
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
+</div>
+
+
+## 🌌 Design & Code Philosophy
+
+> “Function meets form in every line of code.”
+
+I build software where performance and aesthetics coexist — delivering solutions that are not only reliable, but thoughtfully designed.
+From backend systems to user interfaces, I focus on creating experiences that are efficient, elegant, and intuitive.
+
+---
+
+## 🤝 Let’s Collaborate
+
+“If you value clean architecture and thoughtful design — let’s create something meaningful together.”
+
+<p align="center">
+  <a href="mailto:nahombekele24@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/nahombekele116"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://github.com/nahombekele24"><img src="https://img.shields.io/badge/GitHub-171515?style=for-the-badge&logo=github&logoColor=white"/></a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> </p>
+---
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nahombekele24&show_icons=true&locale=en&layout=compact" alt="nahombekele24" /></p>
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=4000&pause=1000&color=0EF7BB&center=true&vCenter=true&width=600&lines=Thanks+for+visiting!;⭐+Star+my+repos+if+you+like+them!;Stay+curious,+stay+creative." alt="Thanks Typing SVG"/>
+</div>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nahombekele24&show_icons=true&locale=en" alt="nahombekele24" /></p>
+---
+
+<p align="center">
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
+  <br/>
+  <img src="https://komarev.com/ghpvc/?username=nahombekele24&label=Profile%20views&color=0ef7bb&style=flat-square" />
 
