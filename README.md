@@ -65,7 +65,7 @@
 
 | 💻 **Languages** | 🎨 **Frontend** | ⚙️ **Backend** |
 |:----------------:|:----------------:|:----------------:|
-| ![Langs](https://skillicons.dev/icons?i=js,java,cpp,c#) | ![FE](https://skillicons.dev/icons?i=html,css,react,nextjs,tailwind,bootstrap,vite) | ![BE](https://skillicons.dev/icons?i=nodejs,express,firebase,postman) |
+| ![Langs](https://skillicons.dev/icons?i=js,java,cpp,c#,sql,kotlin) | ![FE](https://skillicons.dev/icons?i=html,css,react,nextjs,tailwind,bootstrap,vite) | ![BE](https://skillicons.dev/icons?i=nodejs,express,firebase,postman) |
 
 | 🧩 **Databases** | 🧰 **Dev Tools** | 🚀 **Deployment** |
 |:----------------:|:----------------:|:----------------:|
