@@ -11,10 +11,10 @@
   </div>
 
   <p align="center">
-    <a href="https://github.com/nahombekele24">
-      <img src="https://img.shields.io/github/followers/nahombekele24?label=Followers&style=social" />
+    <a href="https://github.com/NahomDevX">
+      <img src="https://img.shields.io/github/followers/NahomDevX?label=Followers&style=social" />
     </a>
-    <a href="https://github.com/nahombekele24?tab=repositories">
+    <a href="https://github.com/NahomDevX?tab=repositories">
       <img src="https://img.shields.io/badge/🌟%20Star%20My%20Repos-blueviolet?style=flat-square" />
     </a>
     <a href="mailto:nahombekele24@gmail.com">
@@ -22,7 +22,7 @@
     </a>
   </p>
 
-  <img src="https://komarev.com/ghpvc/?username=nahombekele24&label=Visitors&color=0ef7bb&style=flat-square" alt="Profile Views"/>
+  <img src="https://komarev.com/ghpvc/?username=NahomDevX&label=Visitors&color=0ef7bb&style=flat-square" alt="Profile Views"/>
 
 </div>
 
@@ -92,14 +92,14 @@
 <div align="center">
 
   <!-- SYSTEM UI HEADER -->
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=28&pause=1000&color=00F2FF&center=true&vCenter=true&width=600&lines=───+SYSTEM+NOTIFICATION+───;+PLAYER:+nahombekele24;+CURRENT+RANK:B-CLASS;+ARISE..." alt="Solo Leveling System" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=28&pause=1000&color=00F2FF&center=true&vCenter=true&width=600&lines=───+SYSTEM+NOTIFICATION+───;+PLAYER:+NahomDevX;+CURRENT+RANK:B-CLASS;+ARISE..." alt="Solo Leveling System" />
 
   <br/>
 
   <!-- MAIN STATS SECTION -->
   <p>
-    <img height="185em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=nahombekele24&show_icons=true&theme=radical&include_all_commits=true&count_private=true" />
-    <img height="185em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=nahombekele24&layout=compact&langs_count=7&theme=radical" />
+    <img height="185em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=NahomDevX&show_icons=true&theme=radical&include_all_commits=true&count_private=true" />
+    <img height="185em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=NahomDevX&layout=compact&langs_count=7&theme=radical" />
   </p>
 
   <!-- THE SYSTEM QUEST CARD (LARGER GIF + STREAK) -->
@@ -116,7 +116,7 @@
       </td>
       <!-- RIGHT BOX: Live Streak Stats -->
       <td align="center" valign="center" style="padding-left: 10px;">
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=nahombekele24&theme=radical&hide_border=false" />
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=NahomDevX&theme=radical&hide_border=false" />
       </td>
     </tr>
   </table>
@@ -145,7 +145,7 @@ From backend systems to user interfaces, I focus on creating experiences that ar
 <p align="center">
   <a href="mailto:nahombekele24@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
   <a href="https://www.linkedin.com/in/nahombekele116"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="https://github.com/nahombekele24"><img src="https://img.shields.io/badge/GitHub-171515?style=for-the-badge&logo=github&logoColor=white"/></a>
+  <a href="https://github.com/NahomDevX"><img src="https://img.shields.io/badge/GitHub-171515?style=for-the-badge&logo=github&logoColor=white"/></a>
 </p>
 
 ---
@@ -159,5 +159,5 @@ From backend systems to user interfaces, I focus on creating experiences that ar
 <p align="center">
     <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
   <br/>
-  <img src="https://komarev.com/ghpvc/?username=nahombekele24&label=Profile%20views&color=0ef7bb&style=flat-square" />
+  <img src="https://komarev.com/ghpvc/?username=NahomDevX&label=Profile%20views&color=0ef7bb&style=flat-square" />
 
