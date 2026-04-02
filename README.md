@@ -52,7 +52,7 @@
     </td>
     <td width="40%" valign="center" align="center">
       <!-- You can put a profile pic or Memoji here -->
-     <img align="left" src="https://miro.medium.com/max/1360/0*7Q3yvSIv_t0ioJ-Z.gif"" width="100%"/>
+     <img align="left" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExa3IxNGEyY3NtNTlsMmFsazdwbndpM3ZhZXE5eTg3aDR5a3M4dXJ3aSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/jBOOXxSJfG8kqMxT11/giphy.gif" width="100%"/>
     </td>
   </tr>
 </table>
@@ -63,13 +63,13 @@
 
 <div align="center">
 
-| 💻 **Languages** | 🎨 **Frontend** | ⚙️ **Backend** |
-|:----------------:|:----------------:|:----------------:|
-| ![Langs](https://skillicons.dev/icons?i=js,java,cpp,c#,sql,kotlin) | ![FE](https://skillicons.dev/icons?i=html,css,react,nextjs,tailwind,bootstrap,vite) | ![BE](https://skillicons.dev/icons?i=nodejs,express,firebase,postman) |
+| 💻 **Languages** | 🎨 **Frontend** | ⚙️ **Backend** | 📱 **Mobile App**
+|:----------------:|:----------------:|:----------------:|:----------------:|
+| ![Langs](https://skillicons.dev/icons?i=js,java,cpp,cs) | ![FE](https://skillicons.dev/icons?i=html,css,react,nextjs,tailwind,bootstrap,vite) | ![BE](https://skillicons.dev/icons?i=nodejs,express,laravel,firebase,postman) | ![MA](https://skillicons.dev/icons?i=androidstudio,kotlin,flutter) |
 
 | 🧩 **Databases** | 🧰 **Dev Tools** | 🚀 **Deployment** |
 |:----------------:|:----------------:|:----------------:|
-| ![DB](https://skillicons.dev/icons?i=mysql,mongodb,postgres) | ![Tools](https://skillicons.dev/icons?i=git,figma,vscode,visualstudio) | ![Deploy](https://skillicons.dev/icons?i=vercel,netlify) |
+| ![DB](https://skillicons.dev/icons?i=mysql,mongodb,postgres) | ![Tools](https://skillicons.dev/icons?i=git,figma,vscode,visualstudio,idea) | ![Deploy](https://skillicons.dev/icons?i=vercel,netlify) |
 
 </div>
 
@@ -111,7 +111,7 @@
           src=https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdmJ1c3l2YWJtNzIyc2twMGQ1cGlqemIzMWowMjRnZWpjZDViZGd1YyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/78XCFBGOlS6keY1Bil/giphy.gif 
           width="320" 
           style="border-radius: 12px; border: 3px solid #00F2FF; box-shadow: 0 0 20px #00F2FF;" 
-          alt="Shadow Monarch"
+          alt=""
         />
       </td>
       <!-- RIGHT BOX: Live Streak Stats -->
