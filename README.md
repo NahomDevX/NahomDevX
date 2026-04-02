@@ -92,7 +92,7 @@
 <div align="center">
 
   <!-- SYSTEM UI HEADER -->
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=28&pause=1000&color=00F2FF&center=true&vCenter=true&width=600&lines=───+SYSTEM+NOTIFICATION+───;+PLAYER:+NahomDevX;+CURRENT+RANK:B-CLASS;+ARISE..." alt="Solo Leveling System" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=28&pause=1000&color=00F2FF&center=true&vCenter=true&width=600&lines=───+SYSTEM+NOTIFICATION+───;+PLAYER:+NahomDevX;+CURRENT+RANK:A+-CLASS;+ARISE..." alt="Solo Leveling System" />
 
   <br/>
 
