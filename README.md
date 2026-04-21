@@ -63,13 +63,13 @@
 
 <div align="center">
 
-| 💻 **Languages** | 🎨 **Frontend** | ⚙️ **Backend** | 📱 **Mobile App**
+| 💻 **Languages** | 🎨 **Frontend** | ⚙️ **Backend** | 📱 **Mobile App** |
 |:----------------:|:----------------:|:----------------:|:----------------:|
 | ![Langs](https://skillicons.dev/icons?i=js,java,cpp,cs) | ![FE](https://skillicons.dev/icons?i=html,css,react,nextjs,tailwind,bootstrap,vite) | ![BE](https://skillicons.dev/icons?i=nodejs,express,laravel,firebase,postman) | ![MA](https://skillicons.dev/icons?i=androidstudio,kotlin,flutter) |
 
-| 🧩 **Databases** | 🧰 **Dev Tools** | 🚀 **Deployment** |
-|:----------------:|:----------------:|:----------------:|
-| ![DB](https://skillicons.dev/icons?i=mysql,mongodb,postgres,supabase) | ![Tools](https://skillicons.dev/icons?i=git,github,figma,vscode,visualstudio,idea) | ![Deploy](https://skillicons.dev/icons?i=vercel,netlify) |
+| 🧩 **Databases** | 🧰 **Dev Tools** | 🎨 **Design Tools** | 🚀 **Deployment** |
+|:----------------:|:-----------------:|:------------------:|:----------------:|
+| ![DB](https://skillicons.dev/icons?i=mysql,mongodb,postgres,supabase) | ![Tools](https://skillicons.dev/icons?i=git,github,figma,vscode,visualstudio,idea) | ![Design](https://skillicons.dev/icons?i=ps,ai,xd)| ![Deploy](https://skillicons.dev/icons?i=vercel,netlify) |
 
 </div>
 
