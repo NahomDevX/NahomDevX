@@ -128,6 +128,13 @@
 
 </div>
 
+## 📈 Contribution Graph
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=NahomDevX&theme=react-dark&bg_color=0d1117&color=6366f1&line=8b5cf6&point=ffffff&area=true&hide_border=true" width="100%" />
+</div>
+
+
 
 ## 🌌 Design & Code Philosophy
 
