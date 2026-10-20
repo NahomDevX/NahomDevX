@@ -82,7 +82,7 @@
 🎓 **B.Sc. in Information Technology** — Dire Dawa University  
 🎯 **Udemy** — UI/UX Design   
 🖥️ **Udemy** — Frontend Development Certificate  
-💡 **Safaricom Talent Cloud** — Web development 
+💡 **Safaricom Talent Cloud** — Web development   
 🖥️ **Mesob Art School** - Graphic Design
 
 ---
