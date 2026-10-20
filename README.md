@@ -46,8 +46,8 @@
         <li>👋 I’m <strong>Nahom Bekele</strong>, a developer from <strong>Ethiopia 🇪🇹</strong>.</li>
         <li>🎓 <strong>Student</strong> @ Dire Dawa University (IT).</li>
         <li>💼 <strong>Fullstack Developer</strong>.</li>
-        <li>🔭 Currently working on: <strong>Frontend</strong>.</li>
-        <li>🌱 Learning: <strong>Backend Development & Mobile Application</strong>.</li>
+        <li>🔭 Currently working on: <strong>Frontend & Backend Development</strong>.</li>
+        <li>🌱 Learning: <strong>Mobile Application</strong>.</li>
       </ul>
     </td>
     <td width="40%" valign="center" align="center">
